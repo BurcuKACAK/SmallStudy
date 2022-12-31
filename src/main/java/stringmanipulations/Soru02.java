@@ -1,4 +1,4 @@
-package StringManipulations;
+package stringmanipulations;
 
 import java.util.Scanner;
 

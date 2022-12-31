@@ -1,4 +1,4 @@
-package StringManipulations;
+package stringmanipulations;
 
 public class Soru06 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package StringManipulations;
+package stringmanipulations;
 
 public class C01_StringManipulation {
     public static void main(String[] args) {
